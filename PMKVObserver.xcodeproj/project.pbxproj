@@ -31,6 +31,7 @@
 		0A5E5A2320B532F600948888 /* PMKVObserver.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; path = PMKVObserver.podspec; sourceTree = "<group>"; };
 		0AA68A1C1BFD9B5C0053C76D /* KVObserver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVObserver.m; sourceTree = "<group>"; };
 		0AA68A1E1BFD9B780053C76D /* KVObserver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVObserver.h; sourceTree = "<group>"; };
+		87B44FA62563FD4D0032ACD5 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		9E681D171C58312500422CE4 /* LICENSE-APACHE */ = {isa = PBXFileReference; lastKnownFileType = text; path = "LICENSE-APACHE"; sourceTree = "<group>"; };
 		9EE8AAF11BFD5B9B00739406 /* PMKVObserver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PMKVObserver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EE8AAF41BFD5B9B00739406 /* PMKVObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PMKVObserver.h; sourceTree = "<group>"; };
@@ -67,6 +68,7 @@
 		9EE8AAE71BFD5B9B00739406 = {
 			isa = PBXGroup;
 			children = (
+				87B44FA62563FD4D0032ACD5 /* Package.swift */,
 				9EE8AB121BFEB39600739406 /* README.md */,
 				9E681D171C58312500422CE4 /* LICENSE-APACHE */,
 				9EE8AB141BFEB42C00739406 /* LICENSE-MIT */,
